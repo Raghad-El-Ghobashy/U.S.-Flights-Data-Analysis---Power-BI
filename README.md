@@ -8,7 +8,7 @@ The project encompasses a full lifecycle of data handling from extraction throug
 ### Process Details :
 
 1. **Data Extraction** 🔄:
-   - Utilized a Python script to automatically extract data, ensuring the ability to refresh data for up-to-date analysis. The script manages extensive datasets involving flight operations.
+   - Utilized a Python script to automatically extract data, ensuring the ability to refresh data for up-to-date analysis. The script manages extensive datasets involving flight operations. 🐍
 
 2. **Data Transformation and Cleaning** ✨:
    - Applied rigorous cleaning processes to enhance data quality by addressing missing values and duplicates.
@@ -48,4 +48,27 @@ The project encompasses a full lifecycle of data handling from extraction throug
 2. **Report 2:** Airline Report showcasing metrics such as the top 5 airlines with the most flights, average delay times by airline, and other relevant airline-specific KPIs.
 3. **Report 3:** Airport Report featuring data such as the top 5 airports by flight volume, flight origin and destination patterns, and other key airport-related metrics.
 4. **Report 4:** Delay Time Report visualizing average flight delays, delay trends over time, and delays by different factors such as airline and airport.
+
+
+## 📈 Reports :
+
+Reports were created to effectively communicate the insights and findings from the data analysis.
+
+Report 1 ![Report 1](https://github.com/Raghad-El-Ghobashy/U.S.-Flights-Data-Analysis---Power-BI/blob/main/Overview.PNG)
+
+Report 2 ![Report 2](https://github.com/Raghad-El-Ghobashy/U.S.-Flights-Data-Analysis---Power-BI/blob/main/Airline%20Report.PNG)
+
+Report 3 ![Report 3](https://github.com/Raghad-El-Ghobashy/U.S.-Flights-Data-Analysis---Power-BI/blob/main/Airport%20Report.PNG)
+
+Report 4 ![Report 4](https://github.com/Raghad-El-Ghobashy/U.S.-Flights-Data-Analysis---Power-BI/blob/main/Delay%20Time%20Report.PNG)
+
+
+
+## 📧 Contact
+
+For more informations, please contact:
+
+- **Email:** [raghadashraf6@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/raghad-el-ghobashy/]
+
 
