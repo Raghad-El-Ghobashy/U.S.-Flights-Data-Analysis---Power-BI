@@ -1,4 +1,4 @@
-# U.S. Flights Data Analysis 🛫
+# U.S. Flights Data Analysis 🛫 🇺🇸
 
 ### Project Overview
 This repository presents an in-depth analysis of airline and airport operations for US flights in 2015, based on data sourced from Kaggle.
